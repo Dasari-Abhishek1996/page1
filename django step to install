@@ -1,0 +1,34 @@
+step 1
+    open CMD and type command
+    --->    pip install virtualenvwrapper-win
+    create vertual environment with name (your choice)
+    --->    mkvirtualenv test     #test is name , you can select as like 
+step 2
+     After naming to enviroment ,
+     you can only install Django in that folder 
+     because of ---> django install not in c drive or any other , ----> it can install in that folder only
+     
+     --->   pip install django   
+     or     pip install django==version name
+     
+step 3
+      
+      creating project dir(directory)
+      --->    mkdir projects
+      note:  hear projects is name , you can declare any name you want
+
+      --->    cd projects
+      note: must go to that dir(directory)
+      
+step 4
+      create project
+      --->    django-admin startproject das
+      note : hear das is an name , you can take any other name
+ 
+ 
+step 5
+      
+      run surver 
+      
+      --->    python manage.py runserver
+      
