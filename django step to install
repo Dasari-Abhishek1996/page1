@@ -11,6 +11,10 @@ step 2
      --->   pip install django   
      or     pip install django==version name
      
+     for testing purpose check the version of django in cmd as 
+     
+     --->   django-admin --version
+     
 step 3
       
       creating project dir(directory)
